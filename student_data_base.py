@@ -65,11 +65,11 @@ class Student:
     
 
 data_base = StudentDatabase()
-Student(1, "Fahim MuntAsir", "CSE", True)
+Student(1, "Fahim MuntAsir", "CSE", False)
 Student(2, "Raisul Jeber", "EEE", False)
-Student(3, "Ismile Munna", "LLB", True)
+Student(3, "Ismile Munna", "LLB", False)
 Student(4, "eFat ahnmed", "ME", False)
-Student(5, "rahim ahmed", "CE", True)
+Student(5, "rahim ahmed", "CE", False)
 Student(6, "Karim Ahmed", "Math", False)
 
 
